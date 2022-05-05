@@ -1,2 +1,5 @@
 # Stock-Market-Data-Prediction-WebApp
-Stock Market Prediction Web App based on Machine Learning and Sentiment Analysis of Tweets (API keys included in code). The front end of the Web App is based on Strteamlit Python framwork
+Stock Market Prediction Web App based on Machine Learning.The front end of the Web App is based on Strteamlit Python framwork
+
+To run the project
+->open Cmd and type (streamli run filename.py)
